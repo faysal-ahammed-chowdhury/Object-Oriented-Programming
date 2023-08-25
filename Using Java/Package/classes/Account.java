@@ -1,0 +1,73 @@
+package classes;
+import interfaces.*;
+
+
+import java.lang.*;
+
+public abstract class Account implements IAccountOperations
+{
+	private int ano;
+	private double balance;
+	
+	public Account()
+	{
+		System.out.println("Empty Account");
+	}
+	public Account(int ano, double balance)
+	{
+		System.out.println("Param Account");
+		this.ano = ano;
+		this.balance = balance;
+	}
+	public void setAno(int ano)
+	{
+		this.ano = ano;
+	}
+	public void setBalance(double balance)
+	{
+		this.balance = balance;
+	}
+	public int getAno()
+	{
+		return ano;
+	}
+	public double getBalance()
+	{
+		return balance;
+	}
+	public void showDetails()
+	{
+		System.out.println("Account no: "+ano);
+		System.out.println("Balance: "+balance);
+	}
+	public void deposit(double amount)
+	{
+		if(amount>0 && (balance+amount)<=5000)
+		{
+			balance = balance+amount;
+			System.out.println("Transaction successful");
+		}
+		else
+		{
+			System.out.println("Invalid amount");
+		}
+		
+	}
+	public void withdraw(double amount)
+	{
+		if(amount>0 && amount<=balance && (balance-amount)>=500)
+		{
+			balance = balance-amount;
+			System.out.println("Transaction successful");
+		}
+		else
+		{
+			System.out.println("Invalid amount");
+		}
+	}
+	public void transfer(Account a, double amount)
+	{
+		this.balance = this.balance - amount;
+		a.balance = a.balance + amount;
+	}
+}
