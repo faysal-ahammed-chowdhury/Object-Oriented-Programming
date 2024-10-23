@@ -36,7 +36,7 @@ namespace Print
             Console.WriteLine(tmp);
 
             Console.Write("Enter any Character: ");
-            int x = Console.Read(); // return ascii value of a char (or anything)
+            int x = Console.Read(); // return ascii value of any char
             Console.WriteLine(x);
         }
     }
