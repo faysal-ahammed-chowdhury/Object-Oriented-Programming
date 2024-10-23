@@ -1,0 +1,7 @@
+D:\Programming\Object-Oriented-Programming\Using C#\C#\InputOutput\InputOutput\bin\Debug\InputOutput.exe.config
+D:\Programming\Object-Oriented-Programming\Using C#\C#\InputOutput\InputOutput\bin\Debug\InputOutput.exe
+D:\Programming\Object-Oriented-Programming\Using C#\C#\InputOutput\InputOutput\bin\Debug\InputOutput.pdb
+D:\Programming\Object-Oriented-Programming\Using C#\C#\InputOutput\InputOutput\obj\Debug\InputOutput.csproj.AssemblyReference.cache
+D:\Programming\Object-Oriented-Programming\Using C#\C#\InputOutput\InputOutput\obj\Debug\InputOutput.csproj.CoreCompileInputs.cache
+D:\Programming\Object-Oriented-Programming\Using C#\C#\InputOutput\InputOutput\obj\Debug\InputOutput.exe
+D:\Programming\Object-Oriented-Programming\Using C#\C#\InputOutput\InputOutput\obj\Debug\InputOutput.pdb
