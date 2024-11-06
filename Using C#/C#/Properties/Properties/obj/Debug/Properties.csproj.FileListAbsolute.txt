@@ -1,0 +1,7 @@
+D:\Programming\Object-Oriented-Programming\Using C#\C#\Properties\Properties\bin\Debug\Properties.exe.config
+D:\Programming\Object-Oriented-Programming\Using C#\C#\Properties\Properties\bin\Debug\Properties.exe
+D:\Programming\Object-Oriented-Programming\Using C#\C#\Properties\Properties\bin\Debug\Properties.pdb
+D:\Programming\Object-Oriented-Programming\Using C#\C#\Properties\Properties\obj\Debug\Properties.csproj.AssemblyReference.cache
+D:\Programming\Object-Oriented-Programming\Using C#\C#\Properties\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+D:\Programming\Object-Oriented-Programming\Using C#\C#\Properties\Properties\obj\Debug\Properties.exe
+D:\Programming\Object-Oriented-Programming\Using C#\C#\Properties\Properties\obj\Debug\Properties.pdb
